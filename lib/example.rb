@@ -17,5 +17,5 @@ def greeting
 end
 
 
-hello_world
+greeting
 

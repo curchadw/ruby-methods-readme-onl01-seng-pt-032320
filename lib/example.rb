@@ -16,3 +16,6 @@ def hello_world
   puts phrase
 end
 
+
+hello_world
+
